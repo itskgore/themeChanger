@@ -1,16 +1,6 @@
-# themeswitch
+Theme Changer:
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a small flutter project which is switches between themes from light to dark. 
+All the states of the app are managed using provider and the data is stored in Hive local storage.
+Animations are also including in this app.
+Any once can use this code in any flutter project to get the theme changer effect.
